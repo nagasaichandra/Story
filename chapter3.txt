@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 this is the file that I created that very lately
 i
 although stupid manifest branch has made changes to chapter 3, I'd like to keep this file just the way it is, after the merge.
+=======
+hey this is chapter3 from manifest branch, which was empty but it is not anymore.
+>>>>>>> manifest-plot-branch
